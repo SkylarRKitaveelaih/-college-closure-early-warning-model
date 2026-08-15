@@ -1,0 +1,5 @@
+Model,ROC_AUC,PR_AUC
+Sector only,0.7197,0.0418
+Financials only,0.6708,0.0348
+Sector + enrollment,0.8425,0.1027
+Full model,0.8541,0.1073

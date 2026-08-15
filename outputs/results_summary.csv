@@ -1,0 +1,13 @@
+Metric,Result
+Institutions analyzed,"3,493"
+Closures (2023–2025),75
+Overall closure rate,2.15%
+5-fold CV ROC-AUC,0.854
+5-fold CV PR-AUC,0.107
+Random PR baseline,0.0215
+PR lift over baseline,5.0×
+Top 10% closure rate,12.57%
+Top 10% risk multiple,5.85×
+Closures captured in top 10%,58.67%
+Top 5% closure rate,14.86%
+Closures captured in top 5%,34.67%
